@@ -26,7 +26,7 @@ def topConcat(size, voids):
     print(text)
     return []
 
-"""this function will allow you to create a line of walls"""
+"""this function will allow you to create a line of | walls"""
 def sideWalls(size, voids):
     b = voids
     m = voids
